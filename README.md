@@ -4,7 +4,7 @@ Ton V1.2
 The Ton V1.2 Board is a development and prototyping platform with Bluetooth Low Energy, Wi-Fi and IMU 9-axis,
 based on the ARM Cortex-M4 32-bit microcontroller [STM32F405](http://www.st.com/web/en/catalog/mmc/SC1169/SS1577/LN1035/PF252144) developed by Brazilian startup [IOTON Technology](http://ioton.cc/).
 
-![ton1_eagle](https://raw.githubusercontent.com/iotontech/ton/master/preview/ton1_eagle.png)
+![ton1_eagle](https://raw.githubusercontent.com/iotontech/ton/master/images/ton1_eagle.png)
 
 
 # License
